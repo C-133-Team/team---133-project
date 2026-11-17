@@ -1,1 +1,0 @@
-![alt text](<RACI-matrix.png>)
